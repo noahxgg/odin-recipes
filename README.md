@@ -4,3 +4,4 @@ Introduction: In this project I will set up a basic recipe website
         ~how to use different HTML elements/attributes
             ~headers, paragraphs, images, links, etc
         ~how to keep an organized HTML structure
+        ~how to use Git commands to add/push/commit files
